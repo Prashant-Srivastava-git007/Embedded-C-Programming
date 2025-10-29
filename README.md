@@ -30,8 +30,7 @@ Each day covers core embedded concepts, programming logic, and hardware interfac
 ## ⚙️ Tools & Technologies
 
 - Programming Language: C  
-- IDEs: STM32Cube IDE, Keil, Arduino IDE, Code Composer Studio  
-- Hardware: STM32 Nucleo-64 (NUCLEO-F411RE)  
+- IDEs: STM32Cube IDE 
 - Development Focus: Embedded Systems, Microcontrollers, Real-time applications  
 
 ---
