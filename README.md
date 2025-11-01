@@ -6,9 +6,6 @@ A collection of simplified notes, explanations, and resources for Embedded C Pro
 ## 📘 About the Repository
 
 This project provides well-structured notes and learning materials that explain **embedded systems** and **C programming for microcontrollers** in simple language.  
-The notes are based on the Day 1–30 Embedded C Programming Challenge by **Pantech Prolabs**.
-
-Each day covers core embedded concepts, programming logic, and hardware interfacing examples with **STM32 Nucleo-64 (NUCLEO-F411RE)**.
 
 ---
 
